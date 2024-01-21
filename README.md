@@ -4,3 +4,4 @@
 ### My latest projects:
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=elnino0916&repo=reShut-CLI&theme=transparent)](https://github.com/elnino0916/reshut-CLI)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=elnino0916&repo=CopilotWorkaroundEU&theme=transparent)](https://github.com/elnino0916/CopilotWorkaroundEU)
