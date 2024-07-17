@@ -4,4 +4,4 @@
 ### My latest projects:
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=elnino0916&repo=reShut-CLI&theme=radical)](https://github.com/elnino0916/reshut-CLI)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=elnino0916&repo=CopilotWorkaroundEU&theme=radical)](https://github.com/elnino0916/CopilotWorkaroundEU)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=elnino0916&repo=TimeSyncPlugin&theme=radical)](https://github.com/elnino0916/TimeSyncPlugin)
