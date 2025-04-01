@@ -28,10 +28,10 @@
       <h3>
      🚀 Some of My Projects
   </h3>
-  <a href="https://github.com/elnino0916/reShut-CLI">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=elnino0916&repo=reShut-CLI&theme=dark" alt="reShut-CLI"/>
+  <a href="https://github.com/elNino0916/SimpleSQLEditor">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=elnino0916&repo=SimpleSQLEditor&theme=dark" alt="SimpleSQLEditor"/>
   </a>
-  <a href="https://github.com/elnino0916/TimeSyncPlugin">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=elnino0916&repo=TimeSyncPlugin&theme=dark" alt="TimeSyncPlugin"/>
+    <a href="https://github.com/elnino0916/reShut-CLI">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=elnino0916&repo=reShut-CLI&theme=dark" alt="reShut-CLI"/>
   </a>
 </div>
