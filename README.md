@@ -17,10 +17,10 @@
     📊 GitHub Stats
   </h3>
   <a href="https://github.com/elnino0916/">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=elnino0916&show_icons=true&theme=dark" alt="GitHub Stats"/>
+    <img height="180em" src="https://github-readme-stats-six-flame-17.vercel.app/api?username=elnino0916&show_icons=true&theme=dark" alt="GitHub Stats"/>
   </a>
   <a href="https://github.com/elnino0916/">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elnino0916&layout=compact&theme=dark" alt="Top Languages"/>
+    <img height="180em" src="https://github-readme-stats-six-flame-17.vercel.app/api/top-langs/?username=elnino0916&layout=compact&theme=dark" alt="Top Languages"/>
   </a>
 </div>
 
@@ -31,10 +31,10 @@
     🚀 Featured Projects
   </h3>
   <a href="https://github.com/elnino0916/reShut-CLI">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=elnino0916&repo=reShut-CLI&theme=dark" alt="reShut-CLI"/>
+    <img src="https://github-readme-stats-six-flame-17.vercel.app/api/pin/?username=elnino0916&repo=reShut-CLI&theme=dark" alt="reShut-CLI"/>
   </a>
     <a href="https://github.com/elnino0916/unifi-led-api">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=elnino0916&repo=unifi-led-api&theme=dark" alt="UniFi LED API"/>
+    <img src="https://github-readme-stats-six-flame-17.vercel.app/api/pin/?username=elnino0916&repo=unifi-led-api&theme=dark" alt="UniFi LED API"/>
   </a>
 </div>
 
