@@ -33,6 +33,9 @@
   <a href="https://github.com/elnino0916/reShut-CLI">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=elnino0916&repo=reShut-CLI&theme=dark" alt="reShut-CLI"/>
   </a>
+    <a href="https://github.com/elnino0916/unifi-led-api">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=elnino0916&repo=unifi-led-api&theme=dark" alt="UniFi LED API"/>
+  </a>
 </div>
 
 ---
