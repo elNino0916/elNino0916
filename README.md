@@ -33,7 +33,7 @@
       <a href="https://github.com/elnino0916/unifi-led-api">
     <img src="https://github-readme-stats-six-flame-17.vercel.app/api/pin/?username=elnino0916&repo=unifi-led-api&theme=dark" alt="UniFi LED API"/>
   </a>
-  <a href="https://github.com/elnino0916/reShut-CLI">
+  <a href="https://github.com/elnino0916/GameArchiver">
     <img src="https://github-readme-stats-six-flame-17.vercel.app/api/pin/?username=elnino0916&repo=GameArchiver&theme=dark" alt="GameArchiver"/>
   </a>
 
