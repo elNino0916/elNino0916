@@ -30,8 +30,8 @@
   <h3>
     🚀 Featured Projects
   </h3>
-      <a href="https://github.com/elnino0916/unifi-led-api">
-    <img src="https://github-readme-stats-six-flame-17.vercel.app/api/pin/?username=elnino0916&repo=unifi-led-api&theme=dark" alt="UniFi LED API"/>
+      <a href="https://github.com/elnino0916/ArduinoMQTTDisplay">
+    <img src="https://github-readme-stats-six-flame-17.vercel.app/api/pin/?username=elnino0916&repo=ArduinoMQTTDisplay&theme=dark" alt="ArduinoMQTTDisplay"/>
   </a>
   <a href="https://github.com/elnino0916/GameArchiver">
     <img src="https://github-readme-stats-six-flame-17.vercel.app/api/pin/?username=elnino0916&repo=GameArchiver&theme=dark" alt="GameArchiver"/>
