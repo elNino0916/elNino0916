@@ -30,11 +30,11 @@
   <h3>
     🚀 Featured Projects
   </h3>
-      <a href="https://github.com/elnino0916/ArduinoMQTTDisplay">
-    <img src="https://github-readme-stats-six-flame-17.vercel.app/api/pin/?username=elnino0916&repo=ArduinoMQTTDisplay&theme=dark" alt="ArduinoMQTTDisplay"/>
+      <a href="https://github.com/elnino0916/DbD-BuildSwitcher">
+    <img src="https://github-readme-stats-six-flame-17.vercel.app/api/pin/?username=elnino0916&repo=DbD-BuildSwitcher&theme=dark" alt="DbD-BuildSwitcher"/>
   </a>
-  <a href="https://github.com/elnino0916/GameArchiver">
-    <img src="https://github-readme-stats-six-flame-17.vercel.app/api/pin/?username=elnino0916&repo=GameArchiver&theme=dark" alt="GameArchiver"/>
+  <a href="https://github.com/elnino0916/Sooskasse-FinTS">
+    <img src="https://github-readme-stats-six-flame-17.vercel.app/api/pin/?username=elnino0916&repo=Sooskasse-FinTS&theme=dark" alt="Sooskasse-FinTS"/>
   </a>
 
 </div>
