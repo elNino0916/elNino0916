@@ -33,8 +33,8 @@
       <a href="https://github.com/elnino0916/DbD-BuildSwitcher">
     <img src="https://github-readme-stats-six-flame-17.vercel.app/api/pin/?username=elnino0916&repo=DbD-BuildSwitcher&theme=dark" alt="DbD-BuildSwitcher"/>
   </a>
-  <a href="https://github.com/elnino0916/Sooskasse-FinTS">
-    <img src="https://github-readme-stats-six-flame-17.vercel.app/api/pin/?username=elnino0916&repo=Sooskasse-FinTS&theme=dark" alt="Sooskasse-FinTS"/>
+  <a href="https://github.com/elnino0916/Girovo">
+    <img src="https://github-readme-stats-six-flame-17.vercel.app/api/pin/?username=elnino0916&repo=Girovo&theme=dark" alt="Girovo"/>
   </a>
 
 </div>
